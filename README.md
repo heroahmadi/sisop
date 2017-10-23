@@ -1,2 +1,1 @@
-# sisop
 aku ganti itu
